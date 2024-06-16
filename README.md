@@ -1,8 +1,8 @@
 Information for playable TerraBlastoma pre-alpha/demos
 Version.json is used to check for updates by the game
 
-File is currently hosted on Google drive due to size limitations:
-https://drive.google.com/drive/folders/129Y6d2pDiSAm28TrjFVvo6wrhiK9hauW?usp=drive_link
+Game can be found at:
+https://chiprchopr.itch.io/terrablastoma-pre-alpha
 
 Requirements: Windows operating system
 
